@@ -9,10 +9,8 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepestana18&layout=compact&langs_count=7&theme=react" />
 </div>
  <br>
-<div  align="center"> 
-  ![Snake animation](https://github.com/felipepestana18/felipepestana18/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+
+   ![Snake animation](https://github.com/felipepestana18/felipepestana18/blob/output/github-contribution-grid-snake.svg)
   
   
   <!-- 
